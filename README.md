@@ -12,6 +12,5 @@ saved to flat .csv files (for subsequent loading into a MySQL database).
 For more information about the black market archives, see:                                                                  
 https://www.gwern.net/Black-market%20archives
 
-For details of the data processing and analysis used here, see:                                                             
-http://www.projectdarknet.com
+For details of the data processing and analysis used here, see the project blog:                                            http://www.projectdarknet.com
 
