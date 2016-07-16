@@ -9,5 +9,8 @@ flat .csv files (for subsequent loading into a MySQL database).
 
 ### Further information
 
-For further information about the datasets and analysis, see the project blog: 
+For information about the raw html data used in the analysis:
+https://www.gwern.net/Black-market%20archives
+
+For more information about the data processing and analysis:
 http://www.projectdarknet.com
