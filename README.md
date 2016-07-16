@@ -5,5 +5,9 @@ Example Python code for preprocessing an archive of DarkNet html pages.
 The example Python code was used to extract product listing information 
 from raw HTML pages sourced from black market websites. The code was applied
 across thousands of separate pages, and the extracted information saved to 
-.csv (for subsequent loading in a MySQL database). For further information, 
-see the project blog: www.projectdarknet.com.
+flat .csv files (for subsequent loading into a MySQL database). 
+
+### Further information
+
+For further information about the datasets and analysis, see the project blog: 
+http://www.projectdarknet.com
